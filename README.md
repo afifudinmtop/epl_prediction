@@ -17,7 +17,7 @@ git clone https://github.com/afifudinmtop/epl_prediction.git
 cd epl_prediction
 npm install && node test.js
 
-// it will return the probability of teams
+// it will return the probability of teams => leeds 33% VS liverpool 66%
 // please change the teams variable to get different result
 ```
 
