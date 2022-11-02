@@ -1,0 +1,26 @@
+{
+  "name": "epl_prediction",
+  "version": "1.0.0",
+  "description": "english premiere league match prediction based on league performance",
+  "homepage": "https://github.com/afifudinmtop/epl_prediction",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "epl",
+    "prediction",
+    "ai",
+    "football",
+    "match"
+  ],
+  "author": "Afifudin Ma'arif",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^19.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afifudinmtop/epl_prediction.git"
+  }
+}
