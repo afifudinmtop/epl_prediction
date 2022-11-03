@@ -24,7 +24,7 @@ npm install && node test.js
 ## Examples head to head
 
 ```jsx
-const app = require("./app.js");
+const app = require("epl_prediction");
 
 const teams = [
   "arsenal", //0
@@ -70,7 +70,7 @@ app.predict(teams[5], teams[0]).then(function (result) {
 ## Examples weekend football fixtures prediction
 
 ```jsx
-const app = require("./app.js");
+const app = require("epl_prediction");
 
 app.weekly().then(function (result) {
   console.log(result);

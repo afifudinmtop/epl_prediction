@@ -1,6 +1,6 @@
 {
   "name": "epl_prediction",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "english premiere league match prediction based on league performance",
   "homepage": "https://github.com/afifudinmtop/epl_prediction",
   "main": "app.js",
